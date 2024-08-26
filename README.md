@@ -1,0 +1,1 @@
+# hagumatech-static-website
